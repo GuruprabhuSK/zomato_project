@@ -1,4 +1,5 @@
 # SQL Project: Data Analysis for Zomato - A Food Delivery Company
+<img width="128" height="128" alt="128px-Zomato_logo" src="https://github.com/user-attachments/assets/2f91a78c-cceb-4280-9391-30206005c187" />
 
 ## Overview
 
